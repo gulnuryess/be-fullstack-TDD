@@ -2,8 +2,9 @@ from unittest import TestCase
 
 
 class FindMaxTest(TestCase):
+
     def test_get_max(self):
-        self.FindMaxTest.temperatures = [a,b]
+        self.FindMaxTest.numbs = [a,b]
         self.assertEquals(self.FindMaxTest.get_max())
         pass
 
