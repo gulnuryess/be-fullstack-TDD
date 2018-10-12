@@ -1,4 +1,7 @@
 def get_max(a, b):
+    """
+    returns max number among a and b
+    """
     pass
 
 
